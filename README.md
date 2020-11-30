@@ -16,5 +16,5 @@ The first step is to download the repository
 Once we have the repository on our compute using conda prompt we create the 
 environment with this commands.
 ```
-    conda env create --file eviroment.yml
+    conda env create --file evironment.yml
 ```
